@@ -1,0 +1,98 @@
+[
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "120",
+      "transactionDt": "09-09-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "75",
+      "transactionDt": "09-05-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "94",
+      "transactionDt": "10-07-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "10",
+      "transactionDt": "04-06-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "75",
+      "transactionDt": "09-06-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "200",
+      "transactionDt": "10-07-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "1",
+      "transactionDt": "08-07-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "80",
+      "transactionDt": "03-07-2022"
+    },
+    {
+      "custid": "1",
+      "name": "Alex",
+      "amt": "224",
+      "transactionDt": "07-26-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "125",
+      "transactionDt": "08-05-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "75",
+      "transactionDt": "05-04-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "10",
+      "transactionDt": "08-08-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "75",
+      "transactionDt": "06-10-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "200",
+      "transactionDt": "07-02-2022"
+    },
+    {
+      "custid": "2",
+      "name": "Bob",
+      "amt": "224",
+      "transactionDt": "07-10-2022"
+    },
+    {
+      "custid": "3",
+      "name": "Smith",
+      "amt": "120",
+      "transactionDt": "08-08-2022"
+    }
+]
